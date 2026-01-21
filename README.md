@@ -1,3 +1,3 @@
-# CIT594GroupProject
-codes are in the master branch, not under main
+
+codes are in the master branch
 
